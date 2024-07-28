@@ -8,6 +8,9 @@
 *.userosscache
 *.sln.docstates
 
+# User-specific folders
+.idea
+
 # Mono auto generated files
 mono_crash.*
 
